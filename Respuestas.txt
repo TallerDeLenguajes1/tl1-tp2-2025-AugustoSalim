@@ -1,1 +1,7 @@
+2f- Inspeccione la carpeta donde inicializó el repositorio:
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 
+No, no se puede ver el archivo tp2_1_2.c cuando estás en la rama main, si ese archivo fue creado solo en la rama Opcion_2 y no ha sido mergeado con el main, solo se puede ver en esa rama
+
+
+Luego de hacer el merge en el source control se ve como la rama de opcion 2 se volvio a unir en un punto luego de que se haya hecho el commit del respuestas.txt
