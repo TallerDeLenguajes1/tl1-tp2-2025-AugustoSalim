@@ -84,4 +84,6 @@ dkms.conf
 *.vb
 *.wsf
 
+### PDF ###
+*.PDF
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,executable
